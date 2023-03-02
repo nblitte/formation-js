@@ -9,3 +9,5 @@ console.log("Le fichier test.txt a été créé");
 
 const fileContent = fs.readFileSync("test.txt","utf-8");
 console.log(fileContent);
+
+// Suite de mon programme
